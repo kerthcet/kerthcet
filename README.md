@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
-- ⚡ Fun fact: basketball && football fan.
 - 💬 WX official account: TechTrek.
+- 😄 Leetcode: https://leetcode-cn.com/u/shen-jing-wa-zs/
+- ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com.
 <br>
 
