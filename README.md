@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
 - 💬 WX official account: [TechTrek](https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect).
-- 😄 Leetcode: https://leetcode-cn.com/u/shen-jing-wa-zs/
+- 😄 Leetcode: https://leetcode-cn.com/u/kerthcet/
 - ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com.
 
