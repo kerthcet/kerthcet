@@ -5,7 +5,6 @@
 - 😄 Leetcode: https://leetcode-cn.com/u/shen-jing-wa-zs/
 - ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com.
-<br>
 
 ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
