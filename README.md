@@ -1,7 +1,3 @@
-![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 ### Hi there 👋
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
@@ -9,7 +5,10 @@
 - 😄 Leetcode: https://leetcode-cn.com/u/shen-jing-wa-zs/
 - ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com.
-<br>
+
+![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect">
