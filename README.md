@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
 - 💬 WX official account: [TechTrek](https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect)
-- 😄 Leetcode: https://leetcode-cn.com/u/kerthcet/
+- 😄 Leetcode homepage: [kerthcet](https://leetcode-cn.com/u/kerthcet/)
 - ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com
 
@@ -11,11 +11,11 @@
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-<a href="">
+<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true" />
 </a>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet&langs_count=10" />
 </a>
 <br>
