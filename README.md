@@ -11,11 +11,11 @@
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-<a href="https://www.kerthcet.com">
+<a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true" />
 </a>
 
-<a href="https://www.kerthcet.com">
+<a href="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet&langs_count=10" />
 </a>
 <br>
