@@ -29,7 +29,7 @@
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet)](https://wakatime.com/@kerthcet)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet&layout=compact)](https://wakatime.com/@kerthcet)
 
 
 
