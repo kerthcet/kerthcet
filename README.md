@@ -11,7 +11,7 @@
 
 
 <a href="https://www.kerthcet.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true" />
 </a>
 
 <a href="https://www.kerthcet.com">
