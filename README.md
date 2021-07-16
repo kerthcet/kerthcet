@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on kubernetes.
+- 🔭 I’m currently working on kubernetes, istio, etcd and containerd.
 - 🌱 I’m currently learning deep-learning.
 - 😄 Personal website: [kerthcet.com](https://www.kerthcet.com/)
 - ⚡ Fun fact: basketball && football fan.
