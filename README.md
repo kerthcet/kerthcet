@@ -5,10 +5,15 @@
 - ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com
 
-![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
+<!-- ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
+<a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/kubernetes-4d4dff.svg?&style=flat&logo=kubernetes&logoColor=white" height=25></a>
+<a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/TechTrek-9e600.svg?&style=flat&logo=wechat&logoColor=white" height=25></a>
+<a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/leetcode-ff9933.svg?&style=flat&logo=leetcode&logoColor=white" height=25></a>
+<a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/vim-008000.svg?&style=flat&logo=vim&logoColor=white" height=25></a>
+<a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/wakatime-0066cc.svg?&style=flat&logo=wakatime&logoColor=white" height=25></a>
 
 <a href="https://www.kerthcet.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true" />
