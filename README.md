@@ -20,10 +20,8 @@
 <a href=""><img src="https://img.shields.io/badge/Python-ffdb4d.svg?&style=flat&logo=python&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-e60000.svg?&style=flat&logo=ruby&logoColor=white" height=25></a>
 
-### Cloud Computing 🌊
-<a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-4d4dff.svg?&style=flat&logo=Kubernetes&logoColor=white" height=25></a>
-
 ### Skills 🌵
+<a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-4d4dff.svg?&style=flat&logo=Kubernetes&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/MySQL-006699.svg?&style=flat&logo=mysql&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-009933.svg?&style=flat&logo=mongodb&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-000000.svg?&style=flat&logo=apachekafka&logoColor=white" height=25></a>
