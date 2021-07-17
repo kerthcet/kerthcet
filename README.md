@@ -36,6 +36,7 @@
 ### Hobbies ❤️
 <a href=""><img src="https://img.shields.io/badge/NBA-006bb3.svg?&style=flat&logo=Nba&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/PremierLeague-330066.svg?&style=flat&logo=premierleague&logoColor=white" height=25></a>
+<a href=""><img src="https://img.shields.io/badge/UFC-ff471a.svg?&style=flat&logo=ufc&logoColor=white" height=25></a>
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
