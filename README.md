@@ -24,9 +24,6 @@
 <a href=""><img src="https://img.shields.io/badge/Prometheus-ff5c33.svg?&style=flat&logo=prometheus&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-00cc00.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-2929a3.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Kibana-ff1a8c.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Grafana-ff9933.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
-
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/MySQL-006699.svg?&style=flat&logo=mysql&logoColor=white" height=20></a>
@@ -40,8 +37,9 @@
 <a href=""><img src="https://img.shields.io/badge/Django-004d00.svg?&style=flat&logo=django&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Rails-e60000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Sentry-000000.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Kibana-ff1a8c.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Grafana-ff9933.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
 </br>
 
 ### Tools 🛠
