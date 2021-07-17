@@ -10,21 +10,21 @@
 <!-- [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
 ### AboutMe 🥷
+<a href="https://www.kerthcet.com"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=25></a>
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-9e600.svg?&style=flat&logo=wechat&logoColor=white" height=25></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-ff9933.svg?&style=flat&logo=leetcode&logoColor=white" height=25></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-008000.svg?&style=flat&logo=vim&logoColor=white" height=25></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-0066cc.svg?&style=flat&logo=wakatime&logoColor=white" height=25></a>
+<a href="kerthceg@gmail.com"><img src="https://img.shields.io/badge/Gmail-e60000.svg?&style=flat&logo=gmail&logoColor=white" height=25></a>
 
 ### Language ☕️
 <a href=""><img src="https://img.shields.io/badge/Go-0099ff.svg?&style=flat&logo=go&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Python-ffdb4d.svg?&style=flat&logo=python&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-e60000.svg?&style=flat&logo=ruby&logoColor=white" height=25></a>
 
-### Cloud Native 🌊
+### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/Kubernetes-4d4dff.svg?&style=flat&logo=Kubernetes&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Prometheus-ff5c33.svg?&style=flat&logo=prometheus&logoColor=white" height=25></a>
-
-### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/MySQL-006699.svg?&style=flat&logo=mysql&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-009933.svg?&style=flat&logo=mongodb&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/ElasticSearch-e6b800.svg?&style=flat&logo=elasticsearch&logoColor=white" height=25></a>
