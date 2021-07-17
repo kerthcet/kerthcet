@@ -1,8 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet)
 - 🔭 I’m currently working on kubernetes, etcd.
 - 🌱 I’m currently learning deep-learning.
-- 😄 Personal website: [kerthcet.com](https://www.kerthcet.com/)
-- ⚡ Fun fact: basketball && football fan.
 - 📫 How to reach me: kerthcet@gmail.com
 
 <!-- ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
