@@ -13,6 +13,7 @@
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-ff9933.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-008000.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-0066cc.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Language ☕️
 <a href=""><img src="https://img.shields.io/badge/Go-0099ff.svg?&style=flat&logo=go&logoColor=white" height=20></a>
