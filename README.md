@@ -5,7 +5,6 @@
 <!-- ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
-</br>
 
 ### AboutMe 🥷
 <a href="https://www.kerthcet.com"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
@@ -14,13 +13,11 @@
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-008000.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-0066cc.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 </br>
-</br>
 
 ### Language ☕️
 <a href=""><img src="https://img.shields.io/badge/Go-0099ff.svg?&style=flat&logo=go&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Python-ffdb4d.svg?&style=flat&logo=python&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-e60000.svg?&style=flat&logo=ruby&logoColor=white" height=20></a>
-</br>
 </br>
 
 ### Skills 🌲
@@ -37,14 +34,12 @@
 <a href=""><img src="https://img.shields.io/badge/Rails-e60000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white" height=20></a>
 </br>
-</br>
 
 ### Hobbies ❤️
 <a href=""><img src="https://img.shields.io/badge/NBA-006bb3.svg?&style=flat&logo=Nba&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/PremierLeague-330066.svg?&style=flat&logo=premierleague&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/UFC-ff471a.svg?&style=flat&logo=ufc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/FIFA-0047b3.svg?&style=flat&logo=fifa&logoColor=white" height=20></a>
-</br>
 </br>
 
 ### Statistics  📊️
