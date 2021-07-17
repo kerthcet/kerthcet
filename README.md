@@ -20,10 +20,14 @@
 <a href=""><img src="https://img.shields.io/badge/Python-ffdb4d.svg?&style=flat&logo=python&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-e60000.svg?&style=flat&logo=ruby&logoColor=white" height=25></a>
 
-### Skills 🌵
-<a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-4d4dff.svg?&style=flat&logo=Kubernetes&logoColor=white" height=25></a>
+### Cloud Native 🌊
+<a href=""><img src="https://img.shields.io/badge/Kubernetes-4d4dff.svg?&style=flat&logo=Kubernetes&logoColor=white" height=25></a>
+<a href=""><img src="https://img.shields.io/badge/Prometheus-ff5c33.svg?&style=flat&logo=prometheus&logoColor=white" height=25></a>
+
+### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/MySQL-006699.svg?&style=flat&logo=mysql&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-009933.svg?&style=flat&logo=mongodb&logoColor=white" height=25></a>
+<a href=""><img src="https://img.shields.io/badge/ElasticSearch-e6b800.svg?&style=flat&logo=elasticsearch&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-000000.svg?&style=flat&logo=apachekafka&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/RocketMQ-ff6600.svg?&style=flat&logo=apacherocketmq&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/Redis-b30000.svg?&style=flat&logo=redis&logoColor=white" height=25></a>
@@ -36,6 +40,7 @@
 <a href=""><img src="https://img.shields.io/badge/NBA-006bb3.svg?&style=flat&logo=Nba&logoColor=white" height=25></a>
 <a href=""><img src="https://img.shields.io/badge/PremierLeague-330066.svg?&style=flat&logo=premierleague&logoColor=white" height=25></a>
 
+### Statistics  📊️
 <a href="https://www.kerthcet.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true" />
 </a>
