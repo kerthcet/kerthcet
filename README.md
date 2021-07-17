@@ -1,4 +1,7 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet)
+### Hi there 👋 
+![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
 - 🔭 I’m currently working on kubernetes, etcd.
 - 🌱 I’m currently learning deep-learning.
 - 📫 How to reach me: kerthcet@gmail.com
