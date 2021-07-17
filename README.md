@@ -40,6 +40,7 @@
 <a href=""><img src="https://img.shields.io/badge/Sentry-000000.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kibana-ff1a8c.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Grafana-ff9933.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Scrum-ff8000.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
 </br>
 
 ### Tools 🛠
