@@ -50,6 +50,7 @@
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Tmux-1BB91F#.svg?&style=flat&logo=tmux&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 </br>
 
 ### Hobbies ❤️
