@@ -23,9 +23,7 @@
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Tekton-FD495C.svg?&style=flat&logo=tekton&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat&logo=prometheus&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" height=20></a>
@@ -44,12 +42,15 @@
 <a href=""><img src="https://img.shields.io/badge/Sentry-362D59.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA#.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 </br>
 
 ### Tools 🛠
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Tmux-1BB91F#.svg?&style=flat&logo=tmux&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 </br>
 
