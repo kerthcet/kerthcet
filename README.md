@@ -64,13 +64,13 @@
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
-  <img src="https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github/0-profile-details.svg" width=1600/>
+  <img src="https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github/0-profile-details.svg"/>
 </a>
 <a href="https://www.kerthcet.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true"/>
 </a>
 <a href="https://www.kerthcet.com">
-  <img align="left" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet" />
+  <img align="right" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet" />
 </a>
 <br>
 <br>
@@ -84,7 +84,11 @@
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet&layout=compact)](https://wakatime.com/@kerthcet)
+<a href="https://wakatime.com/@kerthcet">
+  <img align="left" margin="5px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet&layout=compact" />
+</a>
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet&layout=compact)](https://wakatime.com/@kerthcet) -->
 
 
 <!--
