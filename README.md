@@ -63,7 +63,6 @@
 </br>
 
 ### Statistics  📊️
-<!-- [![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <a href="https://www.kerthcet.com">
   <img src="https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github/0-profile-details.svg" width=1600/>
 </a>
@@ -73,6 +72,7 @@
 <a href="https://www.kerthcet.com">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet" />
 </a>
+<br>
 <br>
 <br>
 <br>
