@@ -30,13 +30,13 @@
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat&logo=redis&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/ElasticSearch-005571.svg?&style=flat&logo=elasticsearch&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Logstash-005571.svg?&style=flat&logo=logstash&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kibana-005571.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=apachekafka&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/RocketMQ-D77310.svg?&style=flat&logo=apacherocketmq&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat&logo=redis&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Celery-37814A.svg?&style=flat&logo=celery&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Rails-CC0000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
@@ -57,6 +57,7 @@
 <a href=""><img src="https://img.shields.io/badge/PremierLeague-360D3A.svg?&style=flat&logo=premierleague&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/UFC-D20A0A.svg?&style=flat&logo=ufc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/FIFA-326295.svg?&style=flat&logo=fifa&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/CounterStrike-000000.svg?&style=flat&logo=counterstrike&logoColor=white" height=20></a>
 </br>
 
 ### Statistics  📊️
