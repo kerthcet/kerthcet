@@ -1,7 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet)
 - 🔭 I’m currently working on kubernetes, etcd.
 - 🌱 I’m currently learning deep-learning.
-- 📫 How to reach me: kerthcet@gmail.com
 <!-- ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
@@ -11,6 +10,7 @@
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
+<a href="https://kerthcet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a>
 </br>
 
 ### Language ☕️ 
