@@ -63,16 +63,13 @@
 </br>
 
 ### Statistics  📊️
+[![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <a href="https://www.kerthcet.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true"/>
 </a>
-
 <a href="https://www.kerthcet.com">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet&langs_count=5" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet" />
 </a>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -83,7 +80,6 @@
 <br>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerthcet&layout=compact)](https://wakatime.com/@kerthcet)
-
 
 
 <!--
