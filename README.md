@@ -13,7 +13,7 @@
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 <!-- <a href="https://kerthcet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a> -->
 
-### Language ☕️ 
+### Languages ☕️ 
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-CC342D.svg?&style=flat&logo=ruby&logoColor=white" height=20></a>
