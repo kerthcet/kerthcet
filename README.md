@@ -26,6 +26,8 @@
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
 
 ### Skills 🌲
+<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat&logo=redis&logoColor=white" height=20></a>
@@ -33,7 +35,6 @@
 <a href=""><img src="https://img.shields.io/badge/Logstash-005571.svg?&style=flat&logo=logstash&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kibana-005571.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=apachekafka&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/RocketMQ-D77310.svg?&style=flat&logo=apacherocketmq&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Celery-37814A.svg?&style=flat&logo=celery&logoColor=white" height=20></a>
@@ -41,7 +42,6 @@
 <a href=""><img src="https://img.shields.io/badge/Rails-CC0000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Sentry-362D59.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 </br>
