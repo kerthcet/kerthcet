@@ -57,6 +57,7 @@
 <a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a>
 </br>
 
 ### Hobbies ❤️
