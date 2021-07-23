@@ -36,6 +36,7 @@
 <a href=""><img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat&logo=redis&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=apachekafka&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/RocketMQ-D77310.svg?&style=flat&logo=apacherocketmq&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Celery-37814A.svg?&style=flat&logo=celery&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/ElasticSearch-005571.svg?&style=flat&logo=elasticsearch&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Logstash-005571.svg?&style=flat&logo=logstash&logoColor=white" height=20></a>
@@ -52,6 +53,9 @@
 <a href=""><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/JFrog-41BF47.svg?&style=flat&logo=jfrog&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=white" height=20></a>
 </br>
 
 ### Hobbies ❤️
