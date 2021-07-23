@@ -45,6 +45,7 @@
 <a href=""><img src="https://img.shields.io/badge/Sentry-362D59.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=white" height=20></a>
 </br>
 
 ### Tools 🛠
@@ -55,7 +56,6 @@
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/JFrog-41BF47.svg?&style=flat&logo=jfrog&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=white" height=20></a>
 </br>
 
 ### Hobbies ❤️
