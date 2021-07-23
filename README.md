@@ -17,6 +17,7 @@
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-CC342D.svg?&style=flat&logo=ruby&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=flat&logo=GNU%20Bash&logoColor=white" height=20></a>
 </br>
 
 ### CloudNative ☁️
@@ -34,6 +35,7 @@
 <a href=""><img src="https://img.shields.io/badge/Rails-CC0000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat&logo=redis&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=apachekafka&logoColor=white" height=20></a>
