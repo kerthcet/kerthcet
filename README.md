@@ -47,6 +47,7 @@
 <a href=""><img src="https://img.shields.io/badge/Kibana-005571.svg?&style=flat&logo=kibana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=flat&logo=grafana&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Sentry-362D59.svg?&style=flat&logo=sentry&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/NewRelic-008C99.svg?&style=flat&logo=newrelic&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/JFrog-41BF47.svg?&style=flat&logo=jfrog&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=white" height=20></a>
