@@ -23,6 +23,7 @@
 ### CloudNative ☁️
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
 <a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Istio-466BB0.svg?&style=flat&logo=istio&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Serverless-FD5750.svg?&style=flat&logo=Serverless&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Tekton-FD495C.svg?&style=flat&logo=tekton&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat&logo=argo&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat&logo=prometheus&logoColor=white" height=20></a>
@@ -30,6 +31,9 @@
 <a href=""><img src="https://img.shields.io/badge/Jaeger-66CFE3.svg?&style=flat&logo=jaeger&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
+
+<!-- ### DeepLearning 🤖
+<a href=""><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" height=20></a> -->
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
