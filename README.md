@@ -22,6 +22,7 @@
 
 ### CloudNative ☁️
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
+<a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Istio-466BB0.svg?&style=flat&logo=istio&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Tekton-FD495C.svg?&style=flat&logo=tekton&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat&logo=prometheus&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
