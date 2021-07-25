@@ -22,7 +22,7 @@
 
 ### CloudNative ☁️
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
-<a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Istio-466BB0.svg?&style=flat&logo=istio&logoColor=white" height=20></a>
+<a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Istio-466BB0.svg?&style=flat&logo=Istio&logoColor=white" height=20></a>
 <a href="https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Etcd-419EDA.svg?&style=flat&logo=etcd&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Serverless-FD5750.svg?&style=flat&logo=Serverless&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Tekton-FD495C.svg?&style=flat&logo=tekton&logoColor=white" height=20></a>
@@ -33,8 +33,10 @@
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 
-<!-- ### DeepLearning 🤖
-<a href=""><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" height=20></a> -->
+### DeepLearning 🤖
+<a href=""><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/PyTorchLightning-792EE5.svg?&style=flat&logo=PyTorch Lightning&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Keras-D00000d.svg?&style=flat&logo=keras&logoColor=white" height=20></a>
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
