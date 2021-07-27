@@ -36,7 +36,6 @@
 
 ### DeepLearning 🤖
 <a href=""><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/pytorchlightning-792EE5.svg?&style=flat&logo=PyTorch Lightning&logoColor=white" height=20></a>
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
