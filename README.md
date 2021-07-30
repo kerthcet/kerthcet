@@ -39,6 +39,10 @@
 
 ### Skills 🌲
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DistributedSystem-00C7B7.svg?&style=flat&logo=Netlify
+&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gin-1c7ed6.svg?&style=flat&logo=gin&logoColor=white" height=20></a>
