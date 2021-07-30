@@ -43,6 +43,7 @@
 <a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/DistributedSystem-00C7B7.svg?&style=flat&logo=Netlify
 &logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DevOps-0CAA41.svg?&style=flat&logo=CloudBees&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gin-1c7ed6.svg?&style=flat&logo=gin&logoColor=white" height=20></a>
@@ -76,6 +77,7 @@
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=notion&logoColor=white" height=20></a>
 </br>
 
 ### Hobbies ❤️
