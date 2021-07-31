@@ -20,7 +20,16 @@
 <a href=""><img src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=flat&logo=GNU%20Bash&logoColor=white" height=20></a>
 </br>
 
-### CloudNative ☁️
+### Experience
+<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DistributedSystem-00C7B7.svg?&style=flat&logo=Netlify&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/CloudNative-326CE5.svg?&style=flat&logo=iCloud&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/DevOps-0CAA41.svg?&style=flat&logo=CloudBees&logoColor=white" height=20></a>
+
+
+### Skills 🌲
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
 <a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Istio-466BB0.svg?&style=flat&logo=Istio&logoColor=white" height=20></a>
 <a href="https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Etcd-419EDA.svg?&style=flat&logo=etcd&logoColor=white" height=20></a>
@@ -33,16 +42,6 @@
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
-
-### DeepLearning 🤖
-<a href=""><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" height=20></a>
-
-### Skills 🌲
-<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/DistributedSystem-00C7B7.svg?&style=flat&logo=Netlify&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/DevOps-0CAA41.svg?&style=flat&logo=CloudBees&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gin-1c7ed6.svg?&style=flat&logo=gin&logoColor=white" height=20></a>
