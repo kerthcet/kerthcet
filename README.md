@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=flat&logo=GNU%20Bash&logoColor=white" height=20></a>
 </br>
 
-### Experience
+### Experience 📔
 <a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
