@@ -41,6 +41,7 @@
 <a href=""><img src="https://img.shields.io/badge/Jaeger-66CFE3.svg?&style=flat&logo=jaeger&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/OperatorFramework-cc0000.svg?&style=flat&logo=operatorframework&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
