@@ -43,6 +43,7 @@
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/OperatorFramework-cc0000.svg?&style=flat&logo=operatorframework&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gin-1c7ed6.svg?&style=flat&logo=gin&logoColor=white" height=20></a>
@@ -71,7 +72,6 @@
 ### Tools 🛠
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Tmux-1BB91F.svg?&style=flat&logo=tmux&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=20></a>
