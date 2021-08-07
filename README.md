@@ -10,8 +10,8 @@
 <a href="https://www.kerthcet.com"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
-<a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 <a href="https://www.stackalytics.io/cncf?project_type=cncf-group&release=all&metric=commits&date=all&user_id=kerthcet@gmail.com"><img src="https://img.shields.io/badge/Stackalytics-e83e8c.svg?&style=flat&logo=vFairs&logoColor=white" height=20></a>
+<a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 
 ### Languages ☕️ 
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
@@ -87,8 +87,8 @@
 <a href=""><img src="https://img.shields.io/badge/CounterStrike-000000.svg?&style=flat&logo=counterstrike&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/FIFA-326295.svg?&style=flat&logo=fifa&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Dota2-a40a0e.svg?&style=flat&logo=dota2&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Dogs-663300.svg?&style=flat&logo=Snyk&logoColor=white" height=20></a>
 </br>
-<a href=""><img src="https://img.shields.io/badge/Dogs-000000.svg?&style=flat&logo=Snyk&logoColor=white" height=20></a>
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
