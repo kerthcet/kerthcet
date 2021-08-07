@@ -11,6 +11,7 @@
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
+<a href="https://www.stackalytics.io/cncf?project_type=cncf-group&release=all&metric=commits&date=all&user_id=kerthcet@gmail.com"><img src="https://img.shields.io/badge/Stackalytics-e83e8c.svg?&style=flat&logo=vFairs&logoColor=white" height=20></a>
 
 ### Languages ☕️ 
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
@@ -40,7 +41,7 @@
 <a href=""><img src="https://img.shields.io/badge/Jaeger-66CFE3.svg?&style=flat&logo=jaeger&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/OperatorFramework-cc0000.svg?&style=flat&logo=operatorframework&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/OperatorFramework-cc0000.svg?&style=flat&logo=FastAPI&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=terraform&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
@@ -83,10 +84,11 @@
 <a href=""><img src="https://img.shields.io/badge/NBA-253B73.svg?&style=flat&logo=Nba&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/PremierLeague-360D3A.svg?&style=flat&logo=premierleague&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/UFC-D20A0A.svg?&style=flat&logo=ufc&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/CounterStrike-000000.svg?&style=flat&logo=counterstrike&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/FIFA-326295.svg?&style=flat&logo=fifa&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Dota2-a40a0e.svg?&style=flat&logo=dota2&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/CounterStrike-000000.svg?&style=flat&logo=counterstrike&logoColor=white" height=20></a>
 </br>
+<a href=""><img src="https://img.shields.io/badge/Dogs-000000.svg?&style=flat&logo=Snyk&logoColor=white" height=20></a>
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
