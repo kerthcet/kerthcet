@@ -15,6 +15,7 @@
 
 ### Languages ☕️ 
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=rust&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-CC342D.svg?&style=flat&logo=ruby&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=flat&logo=GNU%20Bash&logoColor=white" height=20></a>
