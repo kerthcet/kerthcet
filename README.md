@@ -22,13 +22,12 @@
 </br>
 
 ### Experience 📔
-<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/DDD-C51935.svg?&style=flat&logo=Moleculer&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/DistributedSystem-00C7B7.svg?&style=flat&logo=Netlify&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/CloudNative-326CE5.svg?&style=flat&logo=iCloud&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/DevOps-0CAA41.svg?&style=flat&logo=CloudBees&logoColor=white" height=20></a>
-
+<a href=""><img src="https://img.shields.io/badge/Scrum-009FDA.svg?&style=flat&logo=scrumalliance&logoColor=white" height=20></a>
 
 ### Skills 🌲
 <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Akerthcet"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white" height=20></a>
