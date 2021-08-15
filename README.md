@@ -73,8 +73,8 @@
 ### Tools 🛠
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Tmux-1BB91F.svg?&style=flat&logo=tmux&logoColor=white" height=20></a>
-<a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=notion&logoColor=white" height=20></a>
