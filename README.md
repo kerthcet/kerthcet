@@ -46,6 +46,7 @@
 <a href=""><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/GraphQL-E434AA.svg?&style=flat&logo=graphql&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/gRPC-244c5a.svg?&style=flat&logo=grpc&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gin-1c7ed6.svg?&style=flat&logo=gin&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Rails-CC0000.svg?&style=flat&logo=rubyonrails&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" height=20></a>
