@@ -39,6 +39,7 @@
 <a href=""><img src="https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat&logo=argo&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat&logo=prometheus&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Jaeger-66CFE3.svg?&style=flat&logo=jaeger&logoColor=white" height=20></a>
+<a href=""><img src="https://img.shields.io/badge/Kiali-0093DD.svg?&style=flat&logo=kiali&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Harbor-60B932.svg?&style=flat&logo=harbor&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Helm-0F1689.svg?&style=flat&logo=helm&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/OperatorFramework-cc0000.svg?&style=flat&logo=FastAPI&logoColor=white" height=20></a>
