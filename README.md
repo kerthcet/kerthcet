@@ -6,6 +6,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 <!-- [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
+<!--
+
 ### AboutMe 🥷
 <a href="https://www.kerthcet.com"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
@@ -13,7 +15,7 @@
 <a href="https://www.stackalytics.io/cncf?project_type=cncf-group&release=all&metric=commits&date=all&user_id=kerthcet@gmail.com"><img src="https://img.shields.io/badge/Stackalytics-e83e8c.svg?&style=flat&logo=vFairs&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 
-### Languages ☕️ 
+### Languages ☕️
 <a href=""><img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=rust&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" height=20></a>
