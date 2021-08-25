@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning deep-learning.
 - 📫 How to reach me: kerthcet@gmail.com
 
-![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorB=%23e13748)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
-
 <!--
 
 ### AboutMe 🥷
