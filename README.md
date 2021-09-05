@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning deep-learning.
 - 📫 How to reach me: kerthcet@gmail.com
 
+<a href="http://kerthcet.com">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&theme=tokyonight"/>
+</a>
+
 
 <!--
 **kerthcet/kerthcet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
