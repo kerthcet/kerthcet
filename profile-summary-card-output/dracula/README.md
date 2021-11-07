@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/dracula/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    

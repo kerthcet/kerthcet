@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github_dark/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kerthcet/kerthcet/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+```
+
+    
