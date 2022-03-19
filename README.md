@@ -4,7 +4,7 @@
 - 📫 How to reach me: kerthcet@gmail.com
 
 <a href="http://kerthcet.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&theme=vue-dark"/>
 </a>
 
 
