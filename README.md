@@ -2,8 +2,9 @@
 
 📌 **We are hiring ***CloudNative/OpenSource*** developers. Please drop me your resume if you‘re interested.**
 
-- 🔭 I’m currently working on kubernetes.
-- 🌱 I’m currently learning deep-learning.
+- 🔭 I’m currently working on Kubernetes.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on AI Infra.
 - 📫 How to reach me: kerthcet@gmail.com
 
 <a href="http://kerthcet.com">
