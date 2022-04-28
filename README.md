@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-📌 **We are hiring ***CloudNative/OpenSource*** developers. Please drop me your resume if you‘re interested.**
+📌 **KCD in ***Chengdu/Nanjing*** are all delayed due to COVID. Sorry about that. ☹︎**
+<!-- 📌 **We are hiring ***CloudNative/OpenSource*** developers. Please drop me your resume if you‘re interested.** -->
 
 - 🔭 I’m currently working on Kubernetes.
 - 🌱 I’m currently learning Deep Learning.
