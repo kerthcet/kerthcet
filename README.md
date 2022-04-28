@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📌 **KCD in ***Chengdu/Nanjing*** are all delayed due to COVID. Sorry about that. ☹︎**
+📌 **KCD(Kubernetes Community Day) in ***Chengdu/Nanjing*** are all delayed due to COVID. Sorry about that. ☹︎**
 <!-- 📌 **We are hiring ***CloudNative/OpenSource*** developers. Please drop me your resume if you‘re interested.** -->
 
 - 🔭 I’m currently working on Kubernetes.
