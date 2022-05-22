@@ -5,12 +5,12 @@
 <!-- <table><tr><td bgcolor="yellow">背景颜色</td></tr></table> -->
 <!-- <font color="yellow" face="黑体" size=3>更多格式</font> -->
 
-📌 **KCD(Kubernetes Community Day) in ***Chengdu/Nanjing*** are all delayed due to COVID. Sorry about that. ☹︎**
+📌 **KCD(Kubernetes Community Day) in ***Chengdu/Nanjing*** are all delayed due to COVID. ☹︎**
 <!-- 📌 **We are hiring ***CloudNative/OpenSource*** developers. Please drop me your resume if you‘re interested.** -->
 
 - 🔭 I’m currently working on Kubernetes.
-- 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on AI Infra.
+- 💬 Ask me anything about OSS.
 - 📫 How to reach me: kerthcet@gmail.com
 
 <!-- <a href="http://kerthcet.com">
