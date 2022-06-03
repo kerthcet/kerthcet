@@ -12,7 +12,7 @@
 - 💬 Ask me anything about OSS.
 - 📫 How to reach me: <a href="https://twitter.com/kerthcet"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" height=15></a>
  <a href="https://kerthcet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=15></a>
-<a href="./snapshots/profile.jpeg"><img src="https://img.shields.io/badge/kerthcet-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=15></a>
+<a href="./snapshots/wechat.jpg"><img src="https://img.shields.io/badge/kerthcet-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=15></a>
 
 <!-- <a href="http://kerthcet.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&border_radius=5&theme=vue-dark"/>
