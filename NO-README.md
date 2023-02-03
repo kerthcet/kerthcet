@@ -10,9 +10,9 @@
  <a href="https://kerthcet@gmail.com"><img src="https://img.shields.io/badge/kerthcet-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=15></a>
 <a href="./snapshots/wechat.jpg"><img src="https://img.shields.io/badge/kerthcet-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=15></a> -->
 
-<a href="http://kerthcet.com">
+<!-- <a href="http://kerthcet.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&border_radius=5&theme=vue-dark"/>
-</a>
+</a> -->
 
 <!--
 **kerthcet/kerthcet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
